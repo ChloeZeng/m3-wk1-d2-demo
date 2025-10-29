@@ -1,0 +1,22 @@
+{
+  "name": "express-exercise",
+  "version": "1.0.0",
+  "description": "WEB 602 Back-end",
+  "main": "exp_demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChloeZeng/m3-wk1-d2-demo.git"
+  },
+  "author": "chloezeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChloeZeng/m3-wk1-d2-demo/issues"
+  },
+  "homepage": "https://github.com/ChloeZeng/m3-wk1-d2-demo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
